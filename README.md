@@ -35,14 +35,14 @@ Defined in `styles.css` and used by adding a *class* tag to elements.
 ### Control image display
 
 ```md
-![](hprc-tubemap.jpeg){.himg .simg}
+![](hprc-tubemap.jpeg){.half_wide_img .shadow_img}
 ```
 
 With:
 
-- `.half_wide_img`: half as wide as the slide, max 400px high
-- `.wide_img`: just max 400px high
-- `.shadow_img`: box shadow
+- `.wide_img`: just max 400px high. Useful when we want some text above/below.
+- `.half_wide_img`: half as wide as the slide, max 400px high. Useful when we want some text above/below and have a more "square image"
+- `.shadow_img`: add a shadow box
 
 ### Citing a paper
 
