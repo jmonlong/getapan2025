@@ -1,0 +1,77 @@
+---
+title: Snarls, pangenome deconstruction, and read mapping with vg giraffe
+subtitle: GET-A-PAN
+author: Xian Chang & Jean Monlong
+date: 06/11/2025
+output:
+  revealjs::revealjs_presentation:
+    theme: white
+    transition: none
+    highlight: pygments
+    background_transition: slide
+    center: false
+    css: style.css
+    incremental: false
+    slide_level: 2
+    reveal_options:
+      slideNumber: true
+      controls: true
+      hash: true
+      navigationMode: default
+---
+
+# Pangenome graph from assemblies
+
+Built by aligning high-quality genomes, saved as paths through the pangenome.
+
+![](imgs/hprc-tubemap.jpeg){.half_wide_img .shadow_img}
+
+Human Pangenome Reference Consortium (HPRC)
+
+<div class="cite">
+Liao, Asri, Ebler, et al. Nature 2023
+</div>
+
+# Pangenome
+
+![](imgs/pangenome-cartoon-nopaths.svg)
+
+## With haplotype paths
+
+![](imgs/pangenome-cartoon.svg)
+
+# Snarls
+
+*Definition of snarls*
+
+# Mapping
+
+`vg` follows the following steps:
+
+::: incremental
+
+1. Step 1
+1. Step 2
+1. Step 3
+
+:::
+
+## Step 1
+
+## Step 2
+
+## Step 3
+
+# Indexes 
+
+# Distance index 
+
+## Distance index I
+
+## Distance index II
+
+## Distance index III
+
+# Conclusion
+
+
