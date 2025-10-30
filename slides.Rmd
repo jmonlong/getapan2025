@@ -272,6 +272,10 @@ Long reads
 
 # Giraffe results
 
+On the HPRC v2 graph which is x size?
+
+![](imgs/giraffe-memory-runtime.png)
+
 # `vg` graph formats and indexes
 
 **Indexes** 
@@ -307,6 +311,8 @@ Long reads
   - file types: https://github.com/vgteam/vg/wiki/File-Types
   -  snarl explainer: https://github.com/vgteam/vg/wiki/Snarls-and-chains
   - deconstruct: https://github.com/vgteam/vg/wiki/VCF-export-with-vg-deconstruct
+
+- vg manpage: https://github.com/vgteam/vg/wiki/vg-manpage
 
 - snarls paper doi: 10.1089/cmb.2017.0251
 
