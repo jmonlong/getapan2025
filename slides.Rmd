@@ -119,7 +119,41 @@ The nested relationship of snarls and chains is described by the snarl tree.
 ![](imgs/snarl10.jpg)
 
 
+## Netgraphs
+
+Netgraphs are a representation of snarls with their child chains collapsed into a single node
+
+![](imgs/netgraph.jpg)
+
+
 # Snarl examples (`vg deconstruct`)
+
+vcf + graph + decomposition for this graph 
+
+![](imgs/snarl2.jpg)
+
+## Snarl examples (`vg deconstruct`)
+
+vcf + graph + decomposition for this graph 
+
+![](imgs/badgraph2.jpg)
+
+## Snarl examples (`vg deconstruct`)
+
+vcf + graph + decomposition for this graph 
+
+![](imgs/badgraph1.png)
+
+## Snarl examples (`vg deconstruct`)
+
+Trick for getting this snarl decomposition to look better (currently only for the distance index):
+
+`vg index -j [graph.dist] -w 6`
+
+
+vcf + graph + decomposition for this graph 
+
+![](imgs/badgraph1.png)
 
 
 # Mapping reads with `vg giraffe`
@@ -273,6 +307,8 @@ Long reads
   - file types: https://github.com/vgteam/vg/wiki/File-Types
   -  snarl explainer: https://github.com/vgteam/vg/wiki/Snarls-and-chains
   - deconstruct: https://github.com/vgteam/vg/wiki/VCF-export-with-vg-deconstruct
+
+- snarls paper doi: 10.1089/cmb.2017.0251
 
 - short read giraffe paper doi: 10.1126/science.abg8871
 
