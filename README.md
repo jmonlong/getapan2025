@@ -2,6 +2,14 @@ See [revealjs.cheatsheet.md](revealjs.cheatsheet.md) for syntax cheatsheet.
 
 ## Compile HTML
 
+In R:
+Install dependencies:
+```r
+install.packages("rmarkdown")
+install.packages("revealjs")
+```
+
+Compile slides:
 ```r
 rmarkdown::render('slides.Rmd')
 ```
