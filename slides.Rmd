@@ -236,16 +236,46 @@ Long reads
 
 ::::
 
+# Giraffe results
+
+# `vg` graph formats and indexes
+
+**Indexes** 
+
+::: incremental
+
+1. `.gbwt` (Graph Burrows Wheeler Transform): haplotype paths
+1. `.gg` (GBWT Graph): node sequences for a GBWT
+1. `.dist` (Distance Index): snarl decomposition plus minimum distances
+1. `.zipcodes`: per-node distance information used by `vg giraffe`
+1. `.min` (Minimizer Index): minimizers used by `vg giraffe`
+1. `.gcsa` (Generalized Compressed Suffix Array): substring index used by `vg map` and `vg mpmap`
+
+:::
+
+**Graphs** 
+
+::: incremental
+
+1. `.gbz` (GBWT + GG): the graph induced by the GBWT
+1. `.hg` (/`.vg`) (HashGraph): graph format optimized for speed
+1. `.pg` (/`.vg`) (PackedGraph): graph format optimized for space efficiency
+1. `.xg`: older graph format
+1. `.vg`: protobuf-based graph format 
+
+:::
+
 # Conclusion
 
 # Useful resources
 
-`vg` wiki snarl explainer: https://github.com/vgteam/vg/wiki/Snarls-and-chains
+- vg wiki 
+  - file types: https://github.com/vgteam/vg/wiki/File-Types
+  -  snarl explainer: https://github.com/vgteam/vg/wiki/Snarls-and-chains
+  - deconstruct: https://github.com/vgteam/vg/wiki/VCF-export-with-vg-deconstruct
 
-`vg` wiki deconstruct: https://github.com/vgteam/vg/wiki/VCF-export-with-vg-deconstruct
+- short read giraffe paper doi: 10.1126/science.abg8871
 
-short read giraffe paper doi: 10.1126/science.abg8871
-
-long read giraffe paper doi: 10.1101/2025.09.29.678807 
+- long read giraffe paper doi: 10.1101/2025.09.29.678807 
 
 
