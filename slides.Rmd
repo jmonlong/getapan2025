@@ -17,7 +17,7 @@ output:
       slideNumber: true
       controls: true
       hash: true
-      navigationMode: default
+      navigationMode: linear
 ---
 
 # Pangenome graph from assemblies
@@ -40,37 +40,94 @@ Liao, Asri, Ebler, et al. Nature 2023
 
 ![](imgs/pangenome-cartoon.svg)
 
-# Snarls
+# Snarls, intuitively
 
-*Definition of snarls*
+# Snarls, formal definition
 
-# Mapping
+A snarl is a subgraph bounded by two nodes that are: 
 
-`vg` follows the following steps:
+(1) Separable: splitting the node into its two node sides separates a subgraph from the graph
 
-::: incremental
+![](imgs/snarls-1.jpeg){.half_wide_img .shadow_img}
 
-1. Step 1
-1. Step 2
-1. Step 3
+# Snarls, formal definition
+
+A snarl is a subgraph bounded by two nodes that are: 
+
+(1) Separable: splitting the node into its two node sides separates a subgraph from the graph
+
+![](imgs/snarls-2.jpeg){.half_wide_img .shadow_img}
+
+## Snarls, formal definition
+
+A snarl is a subgraph bounded by two nodes that are: 
+
+(1) Separable: splitting the node into its two node sides separates a subgraph from the graph
+
+(2) Minimal: there are no nodes within the snarl that are separable with the boundary nodes 
+
+![](imgs/snarls-3.jpeg){.half_wide_img .shadow_img}
+
+# Chains
+
+A run of consecutive snarls and nodes is called a chain
+
+# Snarl decomposition
+
+Snarls and chains can be nested inside of each other.
+
+. . .
+
+The nested relationship of snarls and chains is described by the snarl tree.
+
+
+# Snarl examples (`vg deconstruct`)
+
+
+# Mapping reads with `vg giraffe`
+
+
+<!-- Make two columns like in https://bookdown.org/yihui/rmarkdown-cookbook/multi-column.html -->
+
+
+:::: {style="display: flex;"}
+
+::: {}
+Short reads
+![](imgs/sr-giraffe-paper.jpeg){.half_wide_img .shadow_img}
+:::
+
+::: {}
+Long reads
+![](imgs/lr-giraffe-paper.jpeg){.half_wide_img .shadow_img}
+:::
+
+::::
+
+# Long read giraffe algorithm
+
+:::: {style="display: flex;"}
+
+::: {}
+
+1. Seeding with **Minimizer Index**
+
+2. Zip code tree making with **Distance Index**
+
+3. Chaining with **Zip Code Trees**
+
+4. Alignment with **GBWT/graph**
 
 :::
 
-## Step 1
+::: {}
 
-## Step 2
 
-## Step 3
+![](imgs/alignment.jpeg){.half_wide_img .shadow_img}
 
-# Indexes 
+:::
 
-# Distance index 
-
-## Distance index I
-
-## Distance index II
-
-## Distance index III
+::::
 
 # Conclusion
 
