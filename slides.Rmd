@@ -14,6 +14,7 @@ output:
     incremental: false
     slide_level: 2
     reveal_options:
+      progress: true
       slideNumber: true
       controls: true
       hash: true
@@ -41,44 +42,81 @@ Liao, Asri, Ebler, et al. Nature 2023
 ![](imgs/pangenome-cartoon.svg)
 
 # Snarls, intuitively
+![](imgs/snarl1.jpg)
 
 # Snarls, formal definition
 
-A snarl is a subgraph bounded by two nodes that are: 
+A snarl is a subgraph bounded by two node sides that are: 
 
-(1) Separable: splitting the node into its two node sides separates a subgraph from the graph
+(1) Separable: splitting each node into its two node sides separates a subgraph from the graph
 
-![](imgs/snarls-1.jpeg){.half_wide_img .shadow_img}
+![](imgs/snarl2.jpg)
 
 # Snarls, formal definition
 
-A snarl is a subgraph bounded by two nodes that are: 
+A snarl is a subgraph bounded by two node sides that are: 
 
 (1) Separable: splitting the node into its two node sides separates a subgraph from the graph
 
-![](imgs/snarls-2.jpeg){.half_wide_img .shadow_img}
+![](imgs/snarl3.jpg)
 
 ## Snarls, formal definition
 
-A snarl is a subgraph bounded by two nodes that are: 
+A snarl is a subgraph bounded by two node sides that are: 
 
 (1) Separable: splitting the node into its two node sides separates a subgraph from the graph
 
-(2) Minimal: there are no nodes within the snarl that are separable with the boundary nodes 
+(2) Minimal: there are no nodes within the snarl that are separable with either boundary node side 
 
-![](imgs/snarls-3.jpeg){.half_wide_img .shadow_img}
+![](imgs/snarl4.jpg)
+
+## Snarls, formal definition
+
+A snarl is a subgraph bounded by two node sides that are: 
+
+(1) Separable: splitting the node into its two node sides separates a subgraph from the graph
+
+(2) Minimal: there are no nodes within the snarl that are separable with either boundary node side 
+
+![](imgs/snarl5.jpg)
 
 # Chains
 
 A run of consecutive snarls and nodes is called a chain
 
-# Snarl decomposition
+![](imgs/snarl6.jpg)
+
+## Snarl decomposition
 
 Snarls and chains can be nested inside of each other.
 
-. . .
+The nested relationship of snarls and chains is described by the snarl tree.
+
+![](imgs/snarl7.jpg)
+
+## Snarl decomposition
+
+Snarls and chains can be nested inside of each other.
 
 The nested relationship of snarls and chains is described by the snarl tree.
+
+![](imgs/snarl8.jpg)
+
+## Snarl decomposition
+
+Snarls and chains can be nested inside of each other.
+
+The nested relationship of snarls and chains is described by the snarl tree.
+
+![](imgs/snarl9.jpg)
+
+## Snarl decomposition
+
+Snarls and chains can be nested inside of each other.
+
+The nested relationship of snarls and chains is described by the snarl tree.
+
+![](imgs/snarl10.jpg)
 
 
 # Snarl examples (`vg deconstruct`)
@@ -94,17 +132,86 @@ The nested relationship of snarls and chains is described by the snarl tree.
 
 ::: {}
 Short reads
-![](imgs/sr-giraffe-paper.jpeg){.half_wide_img .shadow_img}
+
+![](imgs/sr-giraffe-paper.png)
 :::
 
 ::: {}
 Long reads
-![](imgs/lr-giraffe-paper.jpeg){.half_wide_img .shadow_img}
+
+![](imgs/lr-giraffe-paper.png)
 :::
 
 ::::
 
 # Long read giraffe algorithm
+
+:::: {style="display: flex;"}
+
+::: {}
+
+1. Seeding with **Minimizer Index**
+
+:::
+
+::: {}
+
+
+![](imgs/giraffe-seeding.png)
+
+:::
+
+::::
+
+
+
+# Long read giraffe algorithm
+
+:::: {style="display: flex;"}
+
+::: {}
+
+1. Seeding with **Minimizer Index**
+
+2. Zip code tree making with **Distance Index**
+
+
+:::
+
+::: {}
+
+
+![](imgs/giraffe-zip-tree.png)
+
+:::
+
+::::
+
+
+## Long read giraffe algorithm
+
+:::: {style="display: flex;"}
+
+::: {}
+
+1. Seeding with **Minimizer Index**
+
+2. Zip code tree making with **Distance Index**
+
+3. Chaining with **Zip Code Trees**
+
+:::
+
+::: {}
+
+
+![](imgs/giraffe-chaining.png)
+
+:::
+
+::::
+
+## Long read giraffe algorithm
 
 :::: {style="display: flex;"}
 
@@ -123,12 +230,22 @@ Long reads
 ::: {}
 
 
-![](imgs/alignment.jpeg){.half_wide_img .shadow_img}
+![](imgs/giraffe-alignment.png)
 
 :::
 
 ::::
 
 # Conclusion
+
+# Useful resources
+
+`vg` wiki snarl explainer: https://github.com/vgteam/vg/wiki/Snarls-and-chains
+
+`vg` wiki deconstruct: https://github.com/vgteam/vg/wiki/VCF-export-with-vg-deconstruct
+
+short read giraffe paper doi: 10.1126/science.abg8871
+
+long read giraffe paper doi: 10.1101/2025.09.29.678807 
 
 
