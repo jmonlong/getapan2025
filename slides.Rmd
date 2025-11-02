@@ -178,7 +178,23 @@ Long reads
 
 ::::
 
-# Long read giraffe algorithm
+# Read mapping
+
+![](imgs/giraffe-goal1.png)
+
+## Read mapping
+
+![](imgs/giraffe-goal3.png)
+
+## Read mapping
+
+![](imgs/giraffe-goal4.png)
+
+## Read mapping
+
+![](imgs/giraffe-goal5.png)
+
+# Long read giraffe algorithm: Seeding
 
 :::: {style="display: flex;"}
 
@@ -198,65 +214,459 @@ Long reads
 ::::
 
 
-
-# Long read giraffe algorithm
+# Long read giraffe algorithm: Chaining
 
 :::: {style="display: flex;"}
 
 ::: {}
 
 1. Seeding with **Minimizer Index**
-
-2. Zip code tree making with **Distance Index**
+2. Chaining
 
 
 :::
 
 ::: {}
 
-
-![](imgs/giraffe-zip-tree.png)
+![](imgs/giraffe-chaining1.png)
 
 :::
 
 ::::
 
 
-## Long read giraffe algorithm
+## Long read giraffe algorithm: Chaining
 
 :::: {style="display: flex;"}
 
 ::: {}
 
 1. Seeding with **Minimizer Index**
+2. Chaining
 
-2. Zip code tree making with **Distance Index**
-
-3. Chaining with **Zip Code Trees**
 
 :::
 
 ::: {}
 
-
-![](imgs/giraffe-chaining.png)
+![](imgs/giraffe-linear-chaining-1.png)
 
 :::
 
 ::::
 
-## Long read giraffe algorithm
+## Long read giraffe algorithm: Chaining
 
 :::: {style="display: flex;"}
 
 ::: {}
 
 1. Seeding with **Minimizer Index**
+2. Chaining
 
+
+:::
+
+::: {}
+
+![](imgs/giraffe-linear-chaining-2.png)
+
+:::
+
+::::
+
+## Long read giraffe algorithm: Chaining
+
+:::: {style="display: flex;"}
+
+::: {}
+
+1. Seeding with **Minimizer Index**
+2. Chaining
+
+
+:::
+
+::: {}
+
+![](imgs/giraffe-linear-chaining-3.png)
+
+:::
+
+::::
+
+## Long read giraffe algorithm: Chaining
+
+:::: {style="display: flex;"}
+
+::: {}
+
+1. Seeding with **Minimizer Index**
+2. Chaining
+
+
+:::
+
+::: {}
+
+![](imgs/giraffe-linear-chaining-4.png)
+
+:::
+
+::::
+
+## Long read giraffe algorithm: Chaining
+
+:::: {style="display: flex;"}
+
+::: {}
+
+1. Seeding with **Minimizer Index**
+2. Chaining
+
+
+:::
+
+::: {}
+
+![](imgs/giraffe-chaining1.png)
+
+:::
+
+::::
+
+## Long read giraffe algorithm: Chaining
+
+:::: {style="display: flex;"}
+
+::: {}
+
+1. Seeding with **Minimizer Index**
+2. Chaining
+
+
+:::
+
+::: {}
+
+![](imgs/giraffe-chaining2.png)
+
+:::
+
+::::
+
+
+## Long read giraffe algorithm: Chaining
+
+:::: {style="display: flex;"}
+
+::: {}
+
+1. Seeding with **Minimizer Index**
+2. Chaining
+
+
+:::
+
+::: {}
+
+![](imgs/giraffe-chaining3.png)
+
+:::
+
+::::
+
+## Long read giraffe algorithm: Chaining
+
+:::: {style="display: flex;"}
+
+::: {}
+
+1. Seeding with **Minimizer Index**
+2. Chaining
+
+
+:::
+
+::: {}
+
+![](imgs/giraffe-chaining4.png)
+
+:::
+
+::::
+
+
+
+
+## Long read giraffe algorithm: Chaining
+
+:::: {style="display: flex;"}
+
+::: {}
+
+1. Seeding with **Minimizer Index**
+2. Chaining
+
+
+:::
+
+::: {}
+
+![](imgs/giraffe-chaining5.png)
+
+:::
+
+::::
+
+
+
+
+# Long read giraffe algorithm: Zip code trees
+
+:::: {style="display: flex;"}
+
+::: {}
+
+1. Seeding with **Minimizer Index**
 2. Zip code tree making with **Distance Index**
-
 3. Chaining with **Zip Code Trees**
 
+
+:::
+
+::: {}
+
+
+![](imgs/giraffe-zips1.svg)
+
+:::
+
+::::
+
+
+## Long read giraffe algorithm: Zip code trees
+
+:::: {style="display: flex;"}
+
+::: {}
+
+1. Seeding with **Minimizer Index**
+2. Zip code tree making with **Distance Index**
+3. Chaining with **Zip Code Trees**
+
+
+:::
+
+::: {}
+
+
+![](imgs/giraffe-zips2.svg)
+
+:::
+
+::::
+
+## Long read giraffe algorithm: Zip code trees
+
+:::: {style="display: flex;"}
+
+::: {}
+
+1. Seeding with **Minimizer Index**
+2. Zip code tree making with **Distance Index**
+3. Chaining with **Zip Code Trees**
+
+
+:::
+
+::: {}
+
+
+![](imgs/giraffe-zips3.svg)
+
+:::
+
+::::
+
+
+
+## Long read giraffe algorithm: Zip code trees
+
+:::: {style="display: flex;"}
+
+::: {}
+
+1. Seeding with **Minimizer Index**
+2. Zip code tree making with **Distance Index**
+3. Chaining with **Zip Code Trees**
+
+
+:::
+
+::: {}
+
+
+![](imgs/giraffe-zips4.svg)
+
+:::
+
+::::
+
+
+
+## Long read giraffe algorithm: Zip code trees
+
+:::: {style="display: flex;"}
+
+::: {}
+
+1. Seeding with **Minimizer Index**
+2. Zip code tree making with **Distance Index**
+3. Chaining with **Zip Code Trees**
+
+
+:::
+
+::: {}
+
+
+![](imgs/giraffe-zips5.svg)
+
+:::
+
+::::
+
+
+
+## Long read giraffe algorithm: Zip code trees
+
+:::: {style="display: flex;"}
+
+::: {}
+
+1. Seeding with **Minimizer Index**
+2. Zip code tree making with **Distance Index**
+3. Chaining with **Zip Code Trees**
+
+
+:::
+
+::: {}
+
+
+![](imgs/giraffe-zips6.svg)
+
+:::
+
+::::
+
+
+
+## Long read giraffe algorithm: Zip code trees
+
+:::: {style="display: flex;"}
+
+::: {}
+
+1. Seeding with **Minimizer Index**
+2. Zip code tree making with **Distance Index**
+3. Chaining with **Zip Code Trees**
+
+
+:::
+
+::: {}
+
+
+![](imgs/giraffe-zips7.svg)
+
+:::
+
+::::
+
+
+
+## Long read giraffe algorithm: Zip code trees
+
+:::: {style="display: flex;"}
+
+::: {}
+
+1. Seeding with **Minimizer Index**
+2. Zip code tree making with **Distance Index**
+3. Chaining with **Zip Code Trees**
+
+
+:::
+
+::: {}
+
+
+![](imgs/giraffe-zips8.svg)
+
+:::
+
+::::
+
+
+
+## Long read giraffe algorithm: Zip code trees
+
+:::: {style="display: flex;"}
+
+::: {}
+
+1. Seeding with **Minimizer Index**
+2. Zip code tree making with **Distance Index**
+3. Chaining with **Zip Code Trees**
+
+
+:::
+
+::: {}
+
+
+![](imgs/giraffe-zips9.svg)
+
+:::
+
+::::
+
+
+
+## Long read giraffe algorithm: Zip code trees
+
+:::: {style="display: flex;"}
+
+::: {}
+
+1. Seeding with **Minimizer Index**
+2. Zip code tree making with **Distance Index**
+3. Chaining with **Zip Code Trees**
+
+
+:::
+
+::: {}
+
+
+![](imgs/giraffe-zips10.svg)
+
+:::
+
+::::
+
+
+## Long read giraffe algorithm: Alignment
+
+:::: {style="display: flex;"}
+
+::: {}
+
+1. Seeding with **Minimizer Index**
+2. Zip code tree making with **Distance Index**
+3. Chaining with **Zip Code Trees**
 4. Alignment with **GBWT/graph**
 
 :::
@@ -264,11 +674,107 @@ Long reads
 ::: {}
 
 
-![](imgs/giraffe-alignment.png)
+![](imgs/giraffe-chaining5.png)
 
 :::
 
 ::::
+
+## Long read giraffe algorithm: Alignment
+
+:::: {style="display: flex;"}
+
+::: {}
+
+1. Seeding with **Minimizer Index**
+2. Zip code tree making with **Distance Index**
+3. Chaining with **Zip Code Trees**
+4. Alignment with **GBWT/graph**
+
+:::
+
+::: {}
+
+
+![](imgs/giraffe-alignment1.svg)
+
+:::
+
+::::
+
+
+
+## Long read giraffe algorithm: Alignment
+
+:::: {style="display: flex;"}
+
+::: {}
+
+1. Seeding with **Minimizer Index**
+2. Zip code tree making with **Distance Index**
+3. Chaining with **Zip Code Trees**
+4. Alignment with **GBWT/graph**
+
+:::
+
+::: {}
+
+
+![](imgs/giraffe-alignment2.svg)
+
+:::
+
+::::
+
+
+
+## Long read giraffe algorithm: Alignment
+
+:::: {style="display: flex;"}
+
+::: {}
+
+1. Seeding with **Minimizer Index**
+2. Zip code tree making with **Distance Index**
+3. Chaining with **Zip Code Trees**
+4. Alignment with **GBWT/graph**
+
+:::
+
+::: {}
+
+
+![](imgs/giraffe-alignment3.svg)
+
+:::
+
+::::
+
+
+
+## Long read giraffe algorithm: Alignment
+
+:::: {style="display: flex;"}
+
+::: {}
+
+1. Seeding with **Minimizer Index**
+2. Zip code tree making with **Distance Index**
+3. Chaining with **Zip Code Trees**
+4. Alignment with **GBWT/graph**
+
+:::
+
+::: {}
+
+
+![](imgs/giraffe-alignment4.svg)
+
+:::
+
+::::
+
+
 
 # Giraffe results
 
