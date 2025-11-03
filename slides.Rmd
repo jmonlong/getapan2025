@@ -41,89 +41,65 @@ Liao, Asri, Ebler, et al. Nature 2023
 
 ![](imgs/pangenome-cartoon.svg)
 
-# Snarls, intuitively
-![](imgs/snarl1.jpg)
+# Snarls, intuitively a "bubble"
+
+![](imgs/snarl-intro-1.svg)
 
 # Snarls, formal definition
 
-A snarl is a subgraph bounded by two node sides that are: 
+A snarl is a **subgraph** bounded by two **node sides** that are: 
 
-(1) Separable: splitting each node into its two node sides separates a subgraph from the graph
-
-![](imgs/snarl2.jpg)
+![](imgs/snarl-intro-2.svg)
 
 # Snarls, formal definition
 
-A snarl is a subgraph bounded by two node sides that are: 
+A snarl is a **subgraph** bounded by two **node sides** that are: 
 
-(1) Separable: splitting the node into its two node sides separates a subgraph from the graph
+1. **Separable**: splitting the boundary nodes separates the snarl from the graph
 
-![](imgs/snarl3.jpg)
-
-## Snarls, formal definition
-
-A snarl is a subgraph bounded by two node sides that are: 
-
-(1) Separable: splitting the node into its two node sides separates a subgraph from the graph
-
-(2) Minimal: there are no nodes within the snarl that are separable with either boundary node side 
-
-![](imgs/snarl4.jpg)
+![](imgs/snarl-intro-3.svg)
 
 ## Snarls, formal definition
 
-A snarl is a subgraph bounded by two node sides that are: 
+A snarl is a **subgraph** bounded by two **node sides** that are: 
 
-(1) Separable: splitting the node into its two node sides separates a subgraph from the graph
+1. **Separable**: splitting the boundary nodes separates the snarl from the graph
+2. **Minimal**: no nodes within the snarl are separable with either boundary node side 
 
-(2) Minimal: there are no nodes within the snarl that are separable with either boundary node side 
+![](imgs/snarl-intro-4.svg)
 
-![](imgs/snarl5.jpg)
+## Snarls, formal definition
+
+A snarl is a **subgraph** bounded by two **node sides** that are: 
+
+1. **Separable**: splitting the boundary nodes separates the snarl from the graph
+2. **Minimal**: no nodes within the snarl are separable with either boundary node side 
+
+![](imgs/snarl-intro-3.svg)
 
 # Chains
 
-A run of consecutive snarls and nodes is called a chain
+A run of consecutive snarls and nodes is called a **chain**.
 
-![](imgs/snarl6.jpg)
-
-## Snarl decomposition
-
-Snarls and chains can be nested inside of each other.
-
-The nested relationship of snarls and chains is described by the snarl tree.
-
-![](imgs/snarl7.jpg)
+![](imgs/snarl-intro-chain.svg)
 
 ## Snarl decomposition
 
-Snarls and chains can be nested inside of each other.
+Snarls and chains can be **nested** inside of each other.
 
-The nested relationship of snarls and chains is described by the snarl tree.
+![](imgs/snarl-intro-nested.svg)
 
-![](imgs/snarl8.jpg)
+## Snarl decomposition 
 
-## Snarl decomposition
+The nested relationship of snarls and chains is described by the **snarl tree**.
 
-Snarls and chains can be nested inside of each other.
-
-The nested relationship of snarls and chains is described by the snarl tree.
-
-![](imgs/snarl9.jpg)
-
-## Snarl decomposition
-
-Snarls and chains can be nested inside of each other.
-
-The nested relationship of snarls and chains is described by the snarl tree.
-
-![](imgs/snarl10.jpg)
-
+![](imgs/snarl-intro-tree.svg)
 
 ## Netgraphs
 
-Netgraphs are a representation of snarls with their child chains collapsed into a single node
+Netgraphs are a representation of snarls with their **child chains collapsed** into a single node
 
-![](imgs/netgraph.jpg)
+![](imgs/snarl-intro-netgraph.svg)
 
 
 # Snarl examples (`vg deconstruct`)
