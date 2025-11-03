@@ -1,0 +1,27 @@
+digraph graphname {
+node [shape=plaintext, style=filled];
+chain_1fd__6fdtraversing_start__end [label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD BORDER="2" CELLPADDING="5">1 to 6</TD></TR></TABLE>>,shape=none,width=0,height=0,margin=0,fillcolor=lightskyblue];
+root -> chain_1fd__6fdtraversing_start__end [penwidth=2,];
+node_1fd [label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD BORDER="2" CELLPADDING="5">1</TD></TR></TABLE>>,shape=none,width=0,height=0,margin=0,fillcolor=grey90];
+chain_1fd__6fdtraversing_start__end -> node_1fd [penwidth=2,];
+snarl_1fd__6fdtraversing_start__end [label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD BORDER="2" CELLPADDING="5">1 to 6</TD></TR></TABLE>>,shape=none,width=0,height=0,margin=0,fillcolor=lightcoral];
+chain_1fd__6fdtraversing_start__end -> snarl_1fd__6fdtraversing_start__end [penwidth=2,];
+chain_2fd__5fdtraversing_start__end [label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD BORDER="2" CELLPADDING="5">2 to 5</TD></TR></TABLE>>,shape=none,width=0,height=0,margin=0,fillcolor=lightskyblue];
+snarl_1fd__6fdtraversing_start__end -> chain_2fd__5fdtraversing_start__end [penwidth=2,];
+node_2fd [label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD BORDER="2" CELLPADDING="5">2</TD></TR></TABLE>>,shape=none,width=0,height=0,margin=0,fillcolor=grey90];
+chain_2fd__5fdtraversing_start__end -> node_2fd [penwidth=2,];
+simple_snarl_2fd__5fdtraversing_start__end [label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD BORDER="2" CELLPADDING="5">2 to 5</TD></TR></TABLE>>,shape=none,width=0,height=0,margin=0,fillcolor=lightcoral];
+chain_2fd__5fdtraversing_start__end -> simple_snarl_2fd__5fdtraversing_start__end [penwidth=2,];
+node_4fd_pretending_to_be_a_chain_in_a_simple_snarl [label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD BORDER="2" CELLPADDING="5">4</TD></TR></TABLE>>,shape=none,width=0,height=0,margin=0,fillcolor=lightskyblue];
+simple_snarl_2fd__5fdtraversing_start__end -> node_4fd_pretending_to_be_a_chain_in_a_simple_snarl [penwidth=2,];
+node_4fd [label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD BORDER="2" CELLPADDING="5">4</TD></TR></TABLE>>,shape=none,width=0,height=0,margin=0,fillcolor=grey90];
+node_4fd_pretending_to_be_a_chain_in_a_simple_snarl -> node_4fd [penwidth=2,];
+node_3fd_pretending_to_be_a_chain_in_a_simple_snarl [label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD BORDER="2" CELLPADDING="5">3</TD></TR></TABLE>>,shape=none,width=0,height=0,margin=0,fillcolor=lightskyblue];
+simple_snarl_2fd__5fdtraversing_start__end -> node_3fd_pretending_to_be_a_chain_in_a_simple_snarl [penwidth=2,];
+node_3fd [label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD BORDER="2" CELLPADDING="5">3</TD></TR></TABLE>>,shape=none,width=0,height=0,margin=0,fillcolor=grey90];
+node_3fd_pretending_to_be_a_chain_in_a_simple_snarl -> node_3fd [penwidth=2,];
+node_5fd [label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD BORDER="2" CELLPADDING="5">5</TD></TR></TABLE>>,shape=none,width=0,height=0,margin=0,fillcolor=grey90];
+chain_2fd__5fdtraversing_start__end -> node_5fd [penwidth=2,];
+node_6fd [label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD BORDER="2" CELLPADDING="5">6</TD></TR></TABLE>>,shape=none,width=0,height=0,margin=0,fillcolor=grey90];
+chain_1fd__6fdtraversing_start__end -> node_6fd [penwidth=2,];
+}

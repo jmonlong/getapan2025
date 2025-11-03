@@ -1,0 +1,25 @@
+digraph graphname {
+node [shape=plaintext, style=filled];
+chain_3rev__3revtraversing_start__end [label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD BORDER="2" CELLPADDING="5">3rev to 3rev</TD></TR></TABLE>>,shape=none,width=0,height=0,margin=0,fillcolor=lightskyblue];
+root -> chain_3rev__3revtraversing_start__end [penwidth=2,];
+node_3rev [label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD BORDER="2" CELLPADDING="5">3rev</TD></TR></TABLE>>,shape=none,width=0,height=0,margin=0,fillcolor=grey90];
+chain_3rev__3revtraversing_start__end -> node_3rev [penwidth=2,];
+snarl_3rev__4fdtraversing_start__end [label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD BORDER="2" CELLPADDING="5">3rev to 4</TD></TR></TABLE>>,shape=none,width=0,height=0,margin=0,fillcolor=lightcoral];
+chain_3rev__3revtraversing_start__end -> snarl_3rev__4fdtraversing_start__end [penwidth=2,];
+chain_2rev__1revtraversing_start__end [label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD BORDER="2" CELLPADDING="5">2rev to 1rev</TD></TR></TABLE>>,shape=none,width=0,height=0,margin=0,fillcolor=lightskyblue];
+snarl_3rev__4fdtraversing_start__end -> chain_2rev__1revtraversing_start__end [penwidth=2,];
+node_2rev [label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD BORDER="2" CELLPADDING="5">2rev</TD></TR></TABLE>>,shape=none,width=0,height=0,margin=0,fillcolor=grey90];
+chain_2rev__1revtraversing_start__end -> node_2rev [penwidth=2,];
+node_1rev [label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD BORDER="2" CELLPADDING="5">1rev</TD></TR></TABLE>>,shape=none,width=0,height=0,margin=0,fillcolor=grey90];
+chain_2rev__1revtraversing_start__end -> node_1rev [penwidth=2,];
+node_4fd [label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD BORDER="2" CELLPADDING="5">4</TD></TR></TABLE>>,shape=none,width=0,height=0,margin=0,fillcolor=grey90];
+chain_3rev__3revtraversing_start__end -> node_4fd [penwidth=2,];
+snarl_4fd__3revtraversing_start__end [label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD BORDER="2" CELLPADDING="5">4 to 3rev</TD></TR></TABLE>>,shape=none,width=0,height=0,margin=0,fillcolor=lightcoral];
+chain_3rev__3revtraversing_start__end -> snarl_4fd__3revtraversing_start__end [penwidth=2,];
+chain_5fd__6fdtraversing_start__end [label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD BORDER="2" CELLPADDING="5">5 to 6</TD></TR></TABLE>>,shape=none,width=0,height=0,margin=0,fillcolor=lightskyblue];
+snarl_4fd__3revtraversing_start__end -> chain_5fd__6fdtraversing_start__end [penwidth=2,];
+node_5fd [label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD BORDER="2" CELLPADDING="5">5</TD></TR></TABLE>>,shape=none,width=0,height=0,margin=0,fillcolor=grey90];
+chain_5fd__6fdtraversing_start__end -> node_5fd [penwidth=2,];
+node_6fd [label=<<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD BORDER="2" CELLPADDING="5">6</TD></TR></TABLE>>,shape=none,width=0,height=0,margin=0,fillcolor=grey90];
+chain_5fd__6fdtraversing_start__end -> node_6fd [penwidth=2,];
+}
