@@ -1,4 +1,4 @@
-See [revealjs.cheatsheet.md](revealjs.cheatsheet.md) for syntax cheatsheet.
+Slides at [https://jmonlong.github.io/getapan2025](https://jmonlong.github.io/getapan2025)
 
 ## Compile HTML
 
@@ -17,6 +17,14 @@ rmarkdown::render('slides.Rmd')
 
 Then open [slides.html](slides.html) in a browser.
 
+## Deploy
+
+The GitHub page for this repo will point to `index.html`, so to "deploy", we can just copy the `slides.html` to `index.html` :boom:
+
+```
+cp slides.html index.html
+```
+
 ## Export to PDF
 
 1. Open and add `?print-pdf` in address bar
@@ -24,6 +32,13 @@ Then open [slides.html](slides.html) in a browser.
 2. Optional: 
     3. Margins = None.
     4. Background enabled
+
+## Syntax
+
+Edit the `slides.Rmd` following the Markdown syntax.
+
+See [revealjs.cheatsheet.md](revealjs.cheatsheet.md) for syntax cheatsheet for this presentation theme.
+
 
 ## "Animations"
 
