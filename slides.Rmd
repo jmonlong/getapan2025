@@ -21,23 +21,15 @@ output:
       navigationMode: linear
 ---
 
-# Pangenome graph from assemblies
-
-Built by aligning high-quality genomes, saved as paths through the pangenome.
-
-![](imgs/hprc-tubemap.jpeg){.half_wide_img .shadow_img}
-
-Human Pangenome Reference Consortium (HPRC)
-
-<div class="cite">
-Liao, Asri, Ebler, et al. Nature 2023
-</div>
-
 # Pangenome
+
+as a **birected** graph
 
 ![](imgs/pangenome-cartoon-nopaths.svg)
 
-## With haplotype paths
+## Pangenome
+
+as a birected graph with **haplotype paths**
 
 ![](imgs/pangenome-cartoon.svg)
 
