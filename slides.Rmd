@@ -83,24 +83,42 @@ A run of consecutive snarls and nodes is called a **chain**.
 
 ![](imgs/snarl-intro-chain.svg)
 
-## Snarl decomposition
+# Snarl decomposition
 
 Snarls and chains can be **nested** inside of each other.
 
 ![](imgs/snarl-intro-nested.svg)
 
-## Snarl decomposition 
+# Snarls, chains, and nodes in a tree 
 
 The nested relationship of snarls and chains is described by the **snarl tree**.
 
 ![](imgs/snarl-intro-tree.svg)
 
-## Netgraphs
+# Netgraphs
 
 Netgraphs are a representation of snarls with their **child chains collapsed** into a single node
 
 ![](imgs/snarl-intro-netgraph.svg)
 
+
+# *Deconstruct*-ing a pangenome
+
+Enumerate **alleles for each snarl** on **a reference path**. Before: all paths.
+
+![](imgs/deconstruct-intro-1.svg)
+
+## *Deconstruct*-ing a pangenome
+
+Enumerate **alleles for each snarl** on **a reference path**. Now: only haplotypes.
+
+![](imgs/deconstruct-intro-2.svg)
+
+## *Deconstruct*-ing a pangenome
+
+Enumerate **alleles for each snarl** on **a reference path** inc. nested snarls.
+
+![](imgs/deconstruct-intro-3.svg)
 
 # Snarl examples (`vg deconstruct`)
 
