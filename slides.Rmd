@@ -355,7 +355,7 @@ Output: Placement of the read on the reference and, usually, the edits between t
 
 ::::
 
-## Short read giraffe algorithm
+# Short read giraffe algorithm
 
 :::: {style="display: grid; align-items: start; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
@@ -1172,7 +1172,7 @@ Output: Placement of the read on the reference and, usually, the edits between t
 
 # Giraffe results
 
-On the HPRC v2 graph which is x size?
+On the HPRC v2 Minigraph-cactus graph containing 462 haplotypes + 2 reference genomes
 
 ![](imgs/giraffe-memory-runtime.png){.half_wide_img}
 
