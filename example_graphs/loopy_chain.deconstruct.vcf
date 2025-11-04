@@ -8,6 +8,6 @@
 ##INFO=<ID=LV,Number=1,Type=Integer,Description="Level in the snarl tree (0=top level)">
 ##INFO=<ID=PS,Number=1,Type=String,Description="ID of variant corresponding to parent snarl">
 ##INFO=<ID=AT,Number=R,Type=String,Description="Allele Traversal as path in graph">
-##contig=<ID=ref#0#0,length=56>
+##contig=<ID=ref#0#0,length=37>
 #CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	sample1	sample2
 ref#0#0	11	>2>5	CTTAG	AAGTC	60	.	AC=1;AF=0.333333;AN=3;AT=>2>3>5,>2>4>5;NS=2;LV=0	GT	0|0	1|.

@@ -1,6 +1,10 @@
 ```
 source ~/Documents/repo/libbdsg/venv/bin/activate
 
+python3 make_graphs.py
+
+snakemake -p --cores 4 -n
+
 GRAPH=aaa
 GRAPH=loopy_chain
 GRAPH=loopy_snarl

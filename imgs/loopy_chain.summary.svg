@@ -30,763 +30,14 @@
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="0.50772385"
-     inkscape:cx="893.20208"
-     inkscape:cy="325.9646"
+     inkscape:cx="895.17166"
+     inkscape:cy="327.93417"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg448" />
-  <g
-     id="g4559"
-     transform="translate(4.5)">
-    <g
-       id="node1-3"
-       class="node"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2220">5</title>
-      <polygon
-         fill="none"
-         stroke="#000000"
-         stroke-width="2"
-         points="429.12,-308 429.12,-335 801.12,-335 801.12,-308 "
-         id="polygon2222" />
-      <text
-         text-anchor="start"
-         x="435.12"
-         y="-317.79999"
-         font-family="Times, serif"
-         font-size="14px"
-         id="text2224">5:CGGTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</text>
-    </g>
-    <g
-       id="node4-6"
-       class="node"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2227">6</title>
-      <polygon
-         fill="none"
-         stroke="#000000"
-         stroke-width="2"
-         points="839.12,-322 839.12,-349 909.12,-349 909.12,-322 "
-         id="polygon2229" />
-      <text
-         text-anchor="start"
-         x="845.12"
-         y="-331.79999"
-         font-family="Times, serif"
-         font-size="14px"
-         id="text2231">6:GTACG</text>
-    </g>
-    <g
-       id="edge1-7"
-       class="edge"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2234">5:ne-&gt;6:nw</title>
-      <path
-         fill="none"
-         stroke="#000000"
-         stroke-width="2"
-         d="m 802.12,-337 c 0,-17.17 36,-31.17 36,-14"
-         id="path2236" />
-    </g>
-    <g
-       id="node2-5"
-       class="node"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2239">1</title>
-      <polygon
-         fill="none"
-         stroke="#000000"
-         stroke-width="2"
-         points="71.12,-322 71.12,-349 140.12,-349 140.12,-322 "
-         id="polygon2241" />
-      <text
-         text-anchor="start"
-         x="77.120003"
-         y="-331.79999"
-         font-family="Times, serif"
-         font-size="14px"
-         id="text2243">1:AGGAT</text>
-    </g>
-    <g
-       id="edge3-3"
-       class="edge"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2246">1:ne-&gt;6:nw</title>
-      <path
-         fill="none"
-         stroke="#000000"
-         stroke-width="2"
-         d="m 141.12,-351 c 0,-77.44 697,-77.44 697,0"
-         id="path2248" />
-    </g>
-    <g
-       id="node5-5"
-       class="node"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2251">2</title>
-      <polygon
-         fill="none"
-         stroke="#000000"
-         stroke-width="2"
-         points="213.12,-308 213.12,-335 283.12,-335 283.12,-308 "
-         id="polygon2253" />
-      <text
-         text-anchor="start"
-         x="219.12"
-         y="-317.79999"
-         font-family="Times, serif"
-         font-size="14px"
-         id="text2255">2:GGCAC</text>
-    </g>
-    <g
-       id="edge2-6"
-       class="edge"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2258">1:ne-&gt;2:nw</title>
-      <path
-         fill="none"
-         stroke="#000000"
-         stroke-width="2"
-         d="m 141.12,-351 c 0,-32.16 71,-18.16 71,14"
-         id="path2260" />
-    </g>
-    <g
-       id="node3-2"
-       class="node"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2263">4</title>
-      <polygon
-         fill="none"
-         stroke="#000000"
-         stroke-width="2"
-         points="321.12,-308 321.12,-335 391.12,-335 391.12,-308 "
-         id="polygon2265" />
-      <text
-         text-anchor="start"
-         x="327.12"
-         y="-317.79999"
-         font-family="Times, serif"
-         font-size="14px"
-         id="text2267">4:AAGTC</text>
-    </g>
-    <g
-       id="edge4-9"
-       class="edge"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2270">4:ne-&gt;5:nw</title>
-      <path
-         fill="none"
-         stroke="#000000"
-         stroke-width="2"
-         d="m 392.12,-337 c 0,-16 36,-16 36,0"
-         id="path2272" />
-    </g>
-    <g
-       id="edge6-1"
-       class="edge"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2275">2:ne-&gt;4:nw</title>
-      <path
-         fill="none"
-         stroke="#000000"
-         stroke-width="2"
-         d="m 284.12,-337 c 0,-16 36,-16 36,0"
-         id="path2277" />
-    </g>
-    <g
-       id="node6-2"
-       class="node"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2280">3</title>
-      <polygon
-         fill="none"
-         stroke="#000000"
-         stroke-width="2"
-         points="322.12,-261 322.12,-288 390.12,-288 390.12,-261 "
-         id="polygon2282" />
-      <text
-         text-anchor="start"
-         x="328.12"
-         y="-270.79999"
-         font-family="Times, serif"
-         font-size="14px"
-         id="text2284">3:CTTAG</text>
-    </g>
-    <g
-       id="edge5-7"
-       class="edge"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2287">2:ne-&gt;3:nw</title>
-      <path
-         fill="none"
-         stroke="#000000"
-         stroke-width="2"
-         d="m 284.12,-337 c 0,-26.59 37,20.41 37,47"
-         id="path2289" />
-    </g>
-    <g
-       id="edge7-0"
-       class="edge"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2292">3:ne-&gt;5:nw</title>
-      <path
-         fill="none"
-         stroke="#000000"
-         stroke-width="2"
-         d="m 391.12,-290 c 0,-26.59 37,-73.59 37,-47"
-         id="path2294" />
-    </g>
-    <g
-       id="node7-9"
-       class="node"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2297">7</title>
-      <text
-         text-anchor="middle"
-         x="105.12"
-         y="-224.3"
-         font-family="Times, serif"
-         font-size="14px"
-         fill="#1b9e77"
-         id="text2299">🗆 ref#0#0  1</text>
-    </g>
-    <g
-       id="node8-3"
-       class="node"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2302">8</title>
-      <text
-         text-anchor="middle"
-         x="248.12"
-         y="-166.3"
-         font-family="Times, serif"
-         font-size="14px"
-         fill="#1b9e77"
-         id="text2304">🗆 2</text>
-    </g>
-    <g
-       id="edge9-6"
-       class="edge"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2307">7-&gt;8</title>
-      <path
-         fill="none"
-         stroke="#1b9e77"
-         d="m 149.96,-209.97 c 23.29,9.58 51.12,21.03 71.01,29.21"
-         id="path2309" />
-    </g>
-    <g
-       id="node9-0"
-       class="node"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2312">9</title>
-      <text
-         text-anchor="middle"
-         x="356.12"
-         y="-166.3"
-         font-family="Times, serif"
-         font-size="14px"
-         fill="#1b9e77"
-         id="text2314">🗆 3</text>
-    </g>
-    <g
-       id="edge11-6"
-       class="edge"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2317">8-&gt;9</title>
-      <path
-         fill="none"
-         stroke="#1b9e77"
-         d="m 275.32,-170 c 16.31,0 37.21,0 53.53,0"
-         id="path2319" />
-    </g>
-    <g
-       id="node10-2"
-       class="node"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2322">10</title>
-      <text
-         text-anchor="middle"
-         x="615.12"
-         y="-195.3"
-         font-family="Times, serif"
-         font-size="14px"
-         fill="#1b9e77"
-         id="text2324">🗆 5</text>
-    </g>
-    <g
-       id="edge13-6"
-       class="edge"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2327">9-&gt;10</title>
-      <path
-         fill="none"
-         stroke="#1b9e77"
-         d="m 383.18,-172.94 c 49.26,-5.56 155.51,-17.55 204.82,-23.11"
-         id="path2329" />
-    </g>
-    <g
-       id="node11-1"
-       class="node"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2332">11</title>
-      <text
-         text-anchor="middle"
-         x="874.12"
-         y="-222.3"
-         font-family="Times, serif"
-         font-size="14px"
-         fill="#1b9e77"
-         id="text2334">🗆 6</text>
-    </g>
-    <g
-       id="edge15"
-       class="edge"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2337">10-&gt;11</title>
-      <path
-         fill="none"
-         stroke="#1b9e77"
-         d="m 642.18,-201.74 c 49.26,-5.17 155.51,-16.33 204.82,-21.52"
-         id="path2339" />
-    </g>
-    <g
-       id="node12-8"
-       class="node"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2342">12</title>
-      <text
-         text-anchor="middle"
-         x="105.12"
-         y="-165.3"
-         font-family="Times, serif"
-         font-size="14px"
-         fill="#7570b3"
-         id="text2344">🗒 sample1#1#0#0  1</text>
-    </g>
-    <g
-       id="node13-7"
-       class="node"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2347">13</title>
-      <text
-         text-anchor="middle"
-         x="248.12"
-         y="-112.3"
-         font-family="Times, serif"
-         font-size="14px"
-         fill="#7570b3"
-         id="text2349">🗒 2</text>
-    </g>
-    <g
-       id="edge18"
-       class="edge"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2352">12-&gt;13</title>
-      <path
-         fill="none"
-         stroke="#7570b3"
-         d="m 154.25,-150.91 c 22.34,8.4 48.02,18.05 66.71,25.07"
-         id="path2354" />
-    </g>
-    <g
-       id="node14-9"
-       class="node"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2357">14</title>
-      <text
-         text-anchor="middle"
-         x="356.12"
-         y="-112.3"
-         font-family="Times, serif"
-         font-size="14px"
-         fill="#7570b3"
-         id="text2359">🗒 3</text>
-    </g>
-    <g
-       id="edge20"
-       class="edge"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2362">13-&gt;14</title>
-      <path
-         fill="none"
-         stroke="#7570b3"
-         d="m 275.32,-116 c 16.31,0 37.21,0 53.53,0"
-         id="path2364" />
-    </g>
-    <g
-       id="node15-2"
-       class="node"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2367">15</title>
-      <text
-         text-anchor="middle"
-         x="615.12"
-         y="-118.3"
-         font-family="Times, serif"
-         font-size="14px"
-         fill="#7570b3"
-         id="text2369">🗒 5</text>
-    </g>
-    <g
-       id="edge22"
-       class="edge"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2372">14-&gt;15</title>
-      <path
-         fill="none"
-         stroke="#7570b3"
-         d="m 383.18,-116.61 c 49.26,-1.15 155.51,-3.63 204.82,-4.78"
-         id="path2374" />
-    </g>
-    <g
-       id="node16"
-       class="node"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2377">16</title>
-      <text
-         text-anchor="middle"
-         x="874.12"
-         y="-161.3"
-         font-family="Times, serif"
-         font-size="14px"
-         fill="#7570b3"
-         id="text2379">🗒 6</text>
-    </g>
-    <g
-       id="edge24"
-       class="edge"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2382">15-&gt;16</title>
-      <path
-         fill="none"
-         stroke="#7570b3"
-         d="m 642.18,-126.36 c 49.26,-8.24 155.51,-26.02 204.82,-34.27"
-         id="path2384" />
-    </g>
-    <g
-       id="node17"
-       class="node"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2387">17</title>
-      <text
-         text-anchor="middle"
-         x="105.12"
-         y="-101.3"
-         font-family="Times, serif"
-         font-size="14px"
-         fill="#e7298a"
-         id="text2389">💹 sample1#2#0#0  1</text>
-    </g>
-    <g
-       id="node18"
-       class="node"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2392">18</title>
-      <text
-         text-anchor="middle"
-         x="248.12"
-         y="-58.299999"
-         font-family="Times, serif"
-         font-size="14px"
-         fill="#e7298a"
-         id="text2394">💹 2</text>
-    </g>
-    <g
-       id="edge27"
-       class="edge"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2397">17-&gt;18</title>
-      <path
-         fill="none"
-         stroke="#e7298a"
-         d="m 165.51,-86.89 c 19.27,5.88 39.67,12.1 55.26,16.85"
-         id="path2399" />
-    </g>
-    <g
-       id="node19"
-       class="node"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2402">19</title>
-      <text
-         text-anchor="middle"
-         x="356.12"
-         y="-58.299999"
-         font-family="Times, serif"
-         font-size="14px"
-         fill="#e7298a"
-         id="text2404">💹 3</text>
-    </g>
-    <g
-       id="edge29"
-       class="edge"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2407">18-&gt;19</title>
-      <path
-         fill="none"
-         stroke="#e7298a"
-         d="m 275.32,-62 c 16.31,0 37.21,0 53.53,0"
-         id="path2409" />
-    </g>
-    <g
-       id="node20"
-       class="node"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2412">20</title>
-      <text
-         text-anchor="middle"
-         x="615.12"
-         y="-59.299999"
-         font-family="Times, serif"
-         font-size="14px"
-         fill="#e7298a"
-         id="text2414">💹 5</text>
-    </g>
-    <g
-       id="edge31"
-       class="edge"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2417">19-&gt;20</title>
-      <path
-         fill="none"
-         stroke="#e7298a"
-         d="m 383.18,-62.1 c 49.26,-0.19 155.51,-0.61 204.82,-0.8"
-         id="path2419" />
-    </g>
-    <g
-       id="node21"
-       class="node"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2422">21</title>
-      <text
-         text-anchor="middle"
-         x="874.12"
-         y="-94.300003"
-         font-family="Times, serif"
-         font-size="14px"
-         fill="#e7298a"
-         id="text2424">💹 6</text>
-    </g>
-    <g
-       id="edge33"
-       class="edge"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2427">20-&gt;21</title>
-      <path
-         fill="none"
-         stroke="#e7298a"
-         d="M 642.18,-66.55 C 691.44,-73.26 797.69,-87.73 847,-94.44"
-         id="path2429" />
-    </g>
-    <g
-       id="node22"
-       class="node"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2432">22</title>
-      <text
-         text-anchor="middle"
-         x="105.12"
-         y="-280.29999"
-         font-family="Times, serif"
-         font-size="14px"
-         fill="#66a61e"
-         id="text2434">🕶 sample2#1#0#0  1</text>
-    </g>
-    <g
-       id="node23"
-       class="node"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2437">23</title>
-      <text
-         text-anchor="middle"
-         x="248.12"
-         y="-220.3"
-         font-family="Times, serif"
-         font-size="14px"
-         fill="#66a61e"
-         id="text2439">🕶 2</text>
-    </g>
-    <g
-       id="edge36"
-       class="edge"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2442">22-&gt;23</title>
-      <path
-         fill="none"
-         stroke="#66a61e"
-         d="m 150.24,-265.87 c 8.6,3.57 17.53,7.32 25.88,10.87 14.85,6.32 31.38,13.52 44.75,19.4"
-         id="path2444" />
-    </g>
-    <g
-       id="node24"
-       class="node"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2447">24</title>
-      <text
-         text-anchor="middle"
-         x="356.12"
-         y="-220.3"
-         font-family="Times, serif"
-         font-size="14px"
-         fill="#66a61e"
-         id="text2449">🕶 4</text>
-    </g>
-    <g
-       id="edge38"
-       class="edge"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2452">23-&gt;24</title>
-      <path
-         fill="none"
-         stroke="#66a61e"
-         d="m 275.32,-224 c 16.31,0 37.21,0 53.53,0"
-         id="path2454" />
-    </g>
-    <g
-       id="node25"
-       class="node"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2457">25</title>
-      <text
-         text-anchor="middle"
-         x="615.12"
-         y="-261.29999"
-         font-family="Times, serif"
-         font-size="14px"
-         fill="#66a61e"
-         id="text2459">🕶 5</text>
-    </g>
-    <g
-       id="edge40"
-       class="edge"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2462">24-&gt;25</title>
-      <path
-         fill="none"
-         stroke="#66a61e"
-         d="m 383.18,-228.16 c 49.26,-7.86 155.51,-24.81 204.82,-32.67"
-         id="path2464" />
-    </g>
-    <g
-       id="node26"
-       class="node"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2467">26</title>
-      <text
-         text-anchor="middle"
-         x="874.12"
-         y="-279.29999"
-         font-family="Times, serif"
-         font-size="14px"
-         fill="#66a61e"
-         id="text2469">🕶 6</text>
-    </g>
-    <g
-       id="edge42"
-       class="edge"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2472">25-&gt;26</title>
-      <path
-         fill="none"
-         stroke="#66a61e"
-         d="m 642.18,-266.82 c 49.26,-3.45 155.51,-10.9 204.82,-14.35"
-         id="path2474" />
-    </g>
-    <g
-       id="node27"
-       class="node"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2477">27</title>
-      <text
-         text-anchor="middle"
-         x="105.12"
-         y="-28.299999"
-         font-family="Times, serif"
-         font-size="14px"
-         fill="#7570b3"
-         id="text2479">🖍 sample2#2#0#0  1</text>
-    </g>
-    <g
-       id="node28"
-       class="node"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2482">28</title>
-      <text
-         text-anchor="middle"
-         x="874.12"
-         y="-14.3"
-         font-family="Times, serif"
-         font-size="14px"
-         fill="#7570b3"
-         id="text2484">🖍 6</text>
-    </g>
-    <g
-       id="edge45"
-       class="edge"
-       transform="matrix(0.77604121,0,0,0.77604121,2.6956227,348.61809)">
-      <title
-         id="title2487">27-&gt;28</title>
-      <path
-         fill="none"
-         stroke="#7570b3"
-         d="m 175.2,-30.74 c 162.94,2.98 565.54,10.32 671.84,12.26"
-         id="path2489" />
-    </g>
-  </g>
   <g
      id="graph0"
      class="graph"
@@ -1389,5 +640,756 @@
          points="183,-39.14 179.5,-29.14 176,-39.14 "
          id="polygon596" />
     </g>
+  </g>
+  <polygon
+     fill="#ffffff"
+     stroke="transparent"
+     points="720.12,4 -4,4 -4,-438.83 720.12,-438.83 "
+     id="polygon1446"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)" />
+  <g
+     id="node1-3"
+     class="node"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1448">5</title>
+    <polygon
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       points="607.12,-308 429.12,-308 429.12,-335 607.12,-335 "
+       id="polygon1450" />
+    <text
+       text-anchor="start"
+       x="435.12"
+       y="-317.79999"
+       font-family="Times, serif"
+       font-size="14px"
+       id="text1452">5:CGGTAGCTTAGCATCAG</text>
+  </g>
+  <g
+     id="node4-6"
+     class="node"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1455">6</title>
+    <polygon
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       points="715.12,-322 645.12,-322 645.12,-349 715.12,-349 "
+       id="polygon1457" />
+    <text
+       text-anchor="start"
+       x="651.12"
+       y="-331.79999"
+       font-family="Times, serif"
+       font-size="14px"
+       id="text1459">6:GTACG</text>
+  </g>
+  <g
+     id="edge1-7"
+     class="edge"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1462">5:ne-&gt;6:nw</title>
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       d="m 608.12,-337 c 0,-17.17 36,-31.17 36,-14"
+       id="path1464" />
+  </g>
+  <g
+     id="node2-5"
+     class="node"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1467">1</title>
+    <polygon
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       points="140.12,-322 71.12,-322 71.12,-349 140.12,-349 "
+       id="polygon1469" />
+    <text
+       text-anchor="start"
+       x="77.120003"
+       y="-331.79999"
+       font-family="Times, serif"
+       font-size="14px"
+       id="text1471">1:AGGAT</text>
+  </g>
+  <g
+     id="edge3-3"
+     class="edge"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1474">1:ne-&gt;6:nw</title>
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       d="m 141.12,-351 c 0,-111.78 503,-111.78 503,0"
+       id="path1476" />
+  </g>
+  <g
+     id="node5-5"
+     class="node"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1479">2</title>
+    <polygon
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       points="283.12,-308 213.12,-308 213.12,-335 283.12,-335 "
+       id="polygon1481" />
+    <text
+       text-anchor="start"
+       x="219.12"
+       y="-317.79999"
+       font-family="Times, serif"
+       font-size="14px"
+       id="text1483">2:GGCAC</text>
+  </g>
+  <g
+     id="edge2-6"
+     class="edge"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1486">1:ne-&gt;2:nw</title>
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       d="m 141.12,-351 c 0,-32.16 71,-18.16 71,14"
+       id="path1488" />
+  </g>
+  <g
+     id="node3-2"
+     class="node"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1491">4</title>
+    <polygon
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       points="391.12,-308 321.12,-308 321.12,-335 391.12,-335 "
+       id="polygon1493" />
+    <text
+       text-anchor="start"
+       x="327.12"
+       y="-317.79999"
+       font-family="Times, serif"
+       font-size="14px"
+       id="text1495">4:AAGTC</text>
+  </g>
+  <g
+     id="edge4-9"
+     class="edge"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1498">4:ne-&gt;5:nw</title>
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       d="m 392.12,-337 c 0,-16 36,-16 36,0"
+       id="path1500" />
+  </g>
+  <g
+     id="edge6-1"
+     class="edge"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1503">2:ne-&gt;4:nw</title>
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       d="m 284.12,-337 c 0,-16 36,-16 36,0"
+       id="path1505" />
+  </g>
+  <g
+     id="node6-2"
+     class="node"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1508">3</title>
+    <polygon
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       points="390.12,-261 322.12,-261 322.12,-288 390.12,-288 "
+       id="polygon1510" />
+    <text
+       text-anchor="start"
+       x="328.12"
+       y="-270.79999"
+       font-family="Times, serif"
+       font-size="14px"
+       id="text1512">3:CTTAG</text>
+  </g>
+  <g
+     id="edge5-7"
+     class="edge"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1515">2:ne-&gt;3:nw</title>
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       d="m 284.12,-337 c 0,-26.59 37,20.41 37,47"
+       id="path1517" />
+  </g>
+  <g
+     id="edge7-0"
+     class="edge"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1520">3:ne-&gt;5:nw</title>
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-width="2"
+       d="m 391.12,-290 c 0,-26.59 37,-73.59 37,-47"
+       id="path1522" />
+  </g>
+  <g
+     id="node7-9"
+     class="node"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1525">7</title>
+    <text
+       text-anchor="middle"
+       x="105.12"
+       y="-224.3"
+       font-family="Times, serif"
+       font-size="14px"
+       fill="#1b9e77"
+       id="text1527">🗆 ref#0#0  1</text>
+  </g>
+  <g
+     id="node8-3"
+     class="node"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1530">8</title>
+    <text
+       text-anchor="middle"
+       x="248.12"
+       y="-166.3"
+       font-family="Times, serif"
+       font-size="14px"
+       fill="#1b9e77"
+       id="text1532">🗆 2</text>
+  </g>
+  <g
+     id="edge9-6"
+     class="edge"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1535">7-&gt;8</title>
+    <path
+       fill="none"
+       stroke="#1b9e77"
+       d="m 149.96,-209.97 c 23.29,9.58 51.12,21.03 71.01,29.21"
+       id="path1537" />
+  </g>
+  <g
+     id="node9-0"
+     class="node"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1540">9</title>
+    <text
+       text-anchor="middle"
+       x="356.12"
+       y="-166.3"
+       font-family="Times, serif"
+       font-size="14px"
+       fill="#1b9e77"
+       id="text1542">🗆 3</text>
+  </g>
+  <g
+     id="edge11-6"
+     class="edge"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1545">8-&gt;9</title>
+    <path
+       fill="none"
+       stroke="#1b9e77"
+       d="m 275.32,-170 c 16.31,0 37.21,0 53.53,0"
+       id="path1547" />
+  </g>
+  <g
+     id="node10-2"
+     class="node"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1550">10</title>
+    <text
+       text-anchor="middle"
+       x="518.12"
+       y="-195.3"
+       font-family="Times, serif"
+       font-size="14px"
+       fill="#1b9e77"
+       id="text1552">🗆 5</text>
+  </g>
+  <g
+     id="edge13-6"
+     class="edge"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1555">9-&gt;10</title>
+    <path
+       fill="none"
+       stroke="#1b9e77"
+       d="m 383.19,-174.72 c 29.75,-5.4 78.13,-14.17 107.88,-19.56"
+       id="path1557" />
+  </g>
+  <g
+     id="node11-1"
+     class="node"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1560">11</title>
+    <text
+       text-anchor="middle"
+       x="680.12"
+       y="-222.3"
+       font-family="Times, serif"
+       font-size="14px"
+       fill="#1b9e77"
+       id="text1562">🗆 6</text>
+  </g>
+  <g
+     id="edge15"
+     class="edge"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1565">10-&gt;11</title>
+    <path
+       fill="none"
+       stroke="#1b9e77"
+       d="m 545.19,-203.4 c 29.75,-5.02 78.13,-13.18 107.88,-18.2"
+       id="path1567" />
+  </g>
+  <g
+     id="node12-8"
+     class="node"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1570">12</title>
+    <text
+       text-anchor="middle"
+       x="105.12"
+       y="-165.3"
+       font-family="Times, serif"
+       font-size="14px"
+       fill="#7570b3"
+       id="text1572">🗒 sample1#1#0#0  1</text>
+  </g>
+  <g
+     id="node13-7"
+     class="node"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1575">13</title>
+    <text
+       text-anchor="middle"
+       x="248.12"
+       y="-112.3"
+       font-family="Times, serif"
+       font-size="14px"
+       fill="#7570b3"
+       id="text1577">🗒 2</text>
+  </g>
+  <g
+     id="edge18"
+     class="edge"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1580">12-&gt;13</title>
+    <path
+       fill="none"
+       stroke="#7570b3"
+       d="m 154.25,-150.91 c 22.34,8.4 48.02,18.05 66.71,25.07"
+       id="path1582" />
+  </g>
+  <g
+     id="node14-9"
+     class="node"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1585">14</title>
+    <text
+       text-anchor="middle"
+       x="356.12"
+       y="-112.3"
+       font-family="Times, serif"
+       font-size="14px"
+       fill="#7570b3"
+       id="text1587">🗒 3</text>
+  </g>
+  <g
+     id="edge20"
+     class="edge"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1590">13-&gt;14</title>
+    <path
+       fill="none"
+       stroke="#7570b3"
+       d="m 275.32,-116 c 16.31,0 37.21,0 53.53,0"
+       id="path1592" />
+  </g>
+  <g
+     id="node15"
+     class="node"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1595">15</title>
+    <text
+       text-anchor="middle"
+       x="518.12"
+       y="-118.3"
+       font-family="Times, serif"
+       font-size="14px"
+       fill="#7570b3"
+       id="text1597">🗒 5</text>
+  </g>
+  <g
+     id="edge22"
+     class="edge"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1600">14-&gt;15</title>
+    <path
+       fill="none"
+       stroke="#7570b3"
+       d="m 383.19,-116.98 c 29.75,-1.11 78.13,-2.93 107.88,-4.04"
+       id="path1602" />
+  </g>
+  <g
+     id="node16"
+     class="node"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1605">16</title>
+    <text
+       text-anchor="middle"
+       x="680.12"
+       y="-161.3"
+       font-family="Times, serif"
+       font-size="14px"
+       fill="#7570b3"
+       id="text1607">🗒 6</text>
+  </g>
+  <g
+     id="edge24"
+     class="edge"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1610">15-&gt;16</title>
+    <path
+       fill="none"
+       stroke="#7570b3"
+       d="m 545.19,-129 c 29.75,-8 78.13,-21 107.88,-29"
+       id="path1612" />
+  </g>
+  <g
+     id="node17"
+     class="node"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1615">17</title>
+    <text
+       text-anchor="middle"
+       x="105.12"
+       y="-101.3"
+       font-family="Times, serif"
+       font-size="14px"
+       fill="#e7298a"
+       id="text1617">💹 sample1#2#0#0  1</text>
+  </g>
+  <g
+     id="node18"
+     class="node"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1620">18</title>
+    <text
+       text-anchor="middle"
+       x="248.12"
+       y="-58.299999"
+       font-family="Times, serif"
+       font-size="14px"
+       fill="#e7298a"
+       id="text1622">💹 2</text>
+  </g>
+  <g
+     id="edge27"
+     class="edge"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1625">17-&gt;18</title>
+    <path
+       fill="none"
+       stroke="#e7298a"
+       d="m 165.51,-86.89 c 19.27,5.88 39.67,12.1 55.26,16.85"
+       id="path1627" />
+  </g>
+  <g
+     id="node19"
+     class="node"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1630">19</title>
+    <text
+       text-anchor="middle"
+       x="356.12"
+       y="-58.299999"
+       font-family="Times, serif"
+       font-size="14px"
+       fill="#e7298a"
+       id="text1632">💹 3</text>
+  </g>
+  <g
+     id="edge29"
+     class="edge"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1635">18-&gt;19</title>
+    <path
+       fill="none"
+       stroke="#e7298a"
+       d="m 275.32,-62 c 16.31,0 37.21,0 53.53,0"
+       id="path1637" />
+  </g>
+  <g
+     id="node20"
+     class="node"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1640">20</title>
+    <text
+       text-anchor="middle"
+       x="518.12"
+       y="-59.299999"
+       font-family="Times, serif"
+       font-size="14px"
+       fill="#e7298a"
+       id="text1642">💹 5</text>
+  </g>
+  <g
+     id="edge31"
+     class="edge"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1645">19-&gt;20</title>
+    <path
+       fill="none"
+       stroke="#e7298a"
+       d="m 383.19,-62.16 c 29.75,-0.19 78.13,-0.49 107.88,-0.68"
+       id="path1647" />
+  </g>
+  <g
+     id="node21"
+     class="node"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1650">21</title>
+    <text
+       text-anchor="middle"
+       x="680.12"
+       y="-94.300003"
+       font-family="Times, serif"
+       font-size="14px"
+       fill="#e7298a"
+       id="text1652">💹 6</text>
+  </g>
+  <g
+     id="edge33"
+     class="edge"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1655">20-&gt;21</title>
+    <path
+       fill="none"
+       stroke="#e7298a"
+       d="m 545.19,-68.7 c 29.75,-6.51 78.13,-17.09 107.88,-23.6"
+       id="path1657" />
+  </g>
+  <g
+     id="node22"
+     class="node"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1660">22</title>
+    <text
+       text-anchor="middle"
+       x="105.12"
+       y="-280.29999"
+       font-family="Times, serif"
+       font-size="14px"
+       fill="#66a61e"
+       id="text1662">🕶 sample2#1#0#0  1</text>
+  </g>
+  <g
+     id="node23"
+     class="node"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1665">23</title>
+    <text
+       text-anchor="middle"
+       x="248.12"
+       y="-220.3"
+       font-family="Times, serif"
+       font-size="14px"
+       fill="#66a61e"
+       id="text1667">🕶 2</text>
+  </g>
+  <g
+     id="edge36"
+     class="edge"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1670">22-&gt;23</title>
+    <path
+       fill="none"
+       stroke="#66a61e"
+       d="m 150.24,-265.87 c 8.6,3.57 17.53,7.32 25.88,10.87 14.85,6.32 31.38,13.52 44.75,19.4"
+       id="path1672" />
+  </g>
+  <g
+     id="node24"
+     class="node"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1675">24</title>
+    <text
+       text-anchor="middle"
+       x="356.12"
+       y="-220.3"
+       font-family="Times, serif"
+       font-size="14px"
+       fill="#66a61e"
+       id="text1677">🕶 4</text>
+  </g>
+  <g
+     id="edge38"
+     class="edge"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1680">23-&gt;24</title>
+    <path
+       fill="none"
+       stroke="#66a61e"
+       d="m 275.32,-224 c 16.31,0 37.21,0 53.53,0"
+       id="path1682" />
+  </g>
+  <g
+     id="node25"
+     class="node"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1685">25</title>
+    <text
+       text-anchor="middle"
+       x="518.12"
+       y="-261.29999"
+       font-family="Times, serif"
+       font-size="14px"
+       fill="#66a61e"
+       id="text1687">🕶 5</text>
+  </g>
+  <g
+     id="edge40"
+     class="edge"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1690">24-&gt;25</title>
+    <path
+       fill="none"
+       stroke="#66a61e"
+       d="m 383.19,-230.68 c 29.75,-7.62 78.13,-20.02 107.88,-27.64"
+       id="path1692" />
+  </g>
+  <g
+     id="node26"
+     class="node"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1695">26</title>
+    <text
+       text-anchor="middle"
+       x="680.12"
+       y="-279.29999"
+       font-family="Times, serif"
+       font-size="14px"
+       fill="#66a61e"
+       id="text1697">🕶 6</text>
+  </g>
+  <g
+     id="edge42"
+     class="edge"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1700">25-&gt;26</title>
+    <path
+       fill="none"
+       stroke="#66a61e"
+       d="m 545.19,-267.93 c 29.75,-3.35 78.13,-8.79 107.88,-12.14"
+       id="path1702" />
+  </g>
+  <g
+     id="node27"
+     class="node"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1705">27</title>
+    <text
+       text-anchor="middle"
+       x="105.12"
+       y="-28.299999"
+       font-family="Times, serif"
+       font-size="14px"
+       fill="#7570b3"
+       id="text1707">🖍 sample2#2#0#0  1</text>
+  </g>
+  <g
+     id="node28"
+     class="node"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1710">28</title>
+    <text
+       text-anchor="middle"
+       x="680.12"
+       y="-14.3"
+       font-family="Times, serif"
+       font-size="14px"
+       fill="#7570b3"
+       id="text1712">🖍 6</text>
+  </g>
+  <g
+     id="edge45"
+     class="edge"
+     transform="matrix(0.75450191,0,0,0.75450191,130.33282,344.39749)">
+    <title
+       id="title1715">27-&gt;28</title>
+    <path
+       fill="none"
+       stroke="#7570b3"
+       d="m 175.24,-30.31 c 127.25,3.11 393.29,9.61 477.64,11.67"
+       id="path1717" />
   </g>
 </svg>
