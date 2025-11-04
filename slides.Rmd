@@ -1175,6 +1175,12 @@ Output: Placement of the read on the reference and, usually, the edits between t
 On the HPRC v2 graph which is x size?
 
 ![](imgs/giraffe-memory-runtime.png){.half_wide_img}
+\ 
+\ 
+\ 
+\ 
+![](imgs/giraffe-pushes-tortoise.gif){width=20%}
+
 
 # `vg` graph formats and indexes
 
