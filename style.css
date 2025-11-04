@@ -72,7 +72,7 @@
 
 /* ------ */
 
-.reveal h1, .reveal h2 {
+.reveal h1, .reveal h2, .reveal .date {
     text-transform: none;
 }
 

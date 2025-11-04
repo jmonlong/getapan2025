@@ -2,7 +2,7 @@
 title: Snarls, pangenome deconstruction, and read mapping with vg giraffe
 subtitle: GET-A-PAN
 author: Xian Chang & Jean Monlong
-date: 06/11/2025
+date: "06/11/2025 - https://github.com/jmonlong/getapan2025"
 output:
   revealjs::revealjs_presentation:
     theme: white
@@ -1222,21 +1222,21 @@ On the HPRC v2 Minigraph-cactus graph containing 462 haplotypes + 2 reference ge
 
 :::
 
-# Conclusion
+# Resources
 
-# Useful resources
+- These slides: https://github.com/jmonlong/getapan2025
 
-- vg wiki 
+- `vg` wiki 
   - file types: https://github.com/vgteam/vg/wiki/File-Types
-  -  snarl explainer: https://github.com/vgteam/vg/wiki/Snarls-and-chains
+  - snarl explainer: https://github.com/vgteam/vg/wiki/Snarls-and-chains
   - deconstruct: https://github.com/vgteam/vg/wiki/VCF-export-with-vg-deconstruct
 
-- vg manpage: https://github.com/vgteam/vg/wiki/vg-manpage
+- `vg` manpage: https://github.com/vgteam/vg/wiki/vg-manpage
 
-- snarls paper doi: 10.1089/cmb.2017.0251
+- Snarls paper [doi:10.1089/cmb.2017.0251](https://doi.org/10.1089/cmb.2017.0251)
 
-- short read giraffe paper doi: 10.1126/science.abg8871
+- Short read giraffe paper [doi:10.1126/science.abg8871](https://doi.org/10.1126/science.abg8871)
 
-- long read giraffe paper doi: 10.1101/2025.09.29.678807 
+- Long read giraffe paper [doi:10.1101/2025.09.29.678807 ](https://doi.org/10.1101/2025.09.29.678807 )
 
 
