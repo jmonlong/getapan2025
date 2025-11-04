@@ -214,6 +214,23 @@ Long reads
 
 ::: {}
 
+
+:::
+
+::: {}
+
+
+![](imgs/mapping-overview7.svg)
+
+:::
+
+::::
+## Read mapping algorithm overview
+
+:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+
+::: {}
+
 1. Seeding
 
 :::
@@ -1086,77 +1103,6 @@ Long reads
 :::
 
 ::::
-
-
-
-## Long read giraffe algorithm
-
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
-
-::: {}
-
-1. Seeding 
-1. Zip code tree making
-1. Chaining
-1. **Alignment** with graph
-
-:::
-
-::: {}
-
-
-![](imgs/lr-giraffe-alignment2.svg)
-
-:::
-
-::::
-
-
-
-## Long read giraffe algorithm
-
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
-
-::: {}
-
-1. Seeding 
-1. Zip code tree making
-1. Chaining
-1. **Alignment** with graph
-
-:::
-
-::: {}
-
-
-![](imgs/lr-giraffe-alignment3.svg)
-
-:::
-
-::::
-
-## Long read giraffe algorithm
-
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
-
-::: {}
-
-1. Seeding 
-1. Zip code tree making
-1. Chaining
-1. **Alignment** with graph
-
-:::
-
-::: {}
-
-
-![](imgs/lr-giraffe-alignment4.svg)
-
-:::
-
-::::
-
 
 ## Long read giraffe algorithm
 
