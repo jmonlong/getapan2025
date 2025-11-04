@@ -1,0 +1,44 @@
+GRAPHS = ['simple_nested_snarl', 'loopy_snarl', 'loopy_chain', 'loopy_chain_flanked', 'aaa']
+
+rule main:
+    input:
+        graph=expand('{graph}.svg', graph=GRAPHS),
+        vcf=expand('{graph}.deconstruct.vcf', graph=GRAPHS),
+        tree=expand('{graph}.snarltree.svg', graph=GRAPHS)
+
+rule plot_graph:
+    input: '{graph}.hg'
+    output: '{graph}.svg'
+    shell:
+        """
+        vg view -dp {input} | dot -Tsvg -o {output}
+        """
+
+rule deconstruct:
+    input: '{graph}.hg'
+    output: '{graph}.deconstruct.vcf'
+    shell:
+        """
+        vg deconstruct -a -P ref {input} > {output}
+        """
+    
+rule plot_tree:
+    input:
+        hg='{graph}.hg',
+        dist='{graph}.dist'
+    output: '{graph}.snarltree.svg'
+    params:
+        pref='{graph}.snarltree'
+    shell:
+        """
+        python3 ~/Documents/repo/daggi/daggi-tree.py --hash_graph {input.hg} --distance_index {input.dist} --output_prefix {params.pref}
+        """
+    
+rule index_distance:
+    input: '{graph}.hg'
+    output: '{graph}.dist'
+    shell:
+        """
+        vg index -j {output} {input}
+        """
+    
