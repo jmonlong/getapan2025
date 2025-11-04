@@ -174,7 +174,7 @@ Trick for getting this snarl decomposition to look better (currently only for th
 <!-- Make two columns like in https://bookdown.org/yihui/rmarkdown-cookbook/multi-column.html -->
 
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 Short reads
@@ -192,7 +192,7 @@ Long reads
 
 # Read mapping algorithm overview
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -210,7 +210,7 @@ Long reads
 
 ## Read mapping algorithm overview
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -227,7 +227,7 @@ Long reads
 ::::
 ## Read mapping algorithm overview
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -246,7 +246,7 @@ Long reads
 
 ## Read mapping algorithm overview
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -266,7 +266,7 @@ Long reads
 
 ## Read mapping algorithm overview
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -286,7 +286,7 @@ Long reads
 
 ## Read mapping algorithm overview
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -308,7 +308,7 @@ Long reads
 
 ## Read mapping algorithm overview
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -331,7 +331,7 @@ Long reads
 
 ## Read mapping algorithm overview
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -352,7 +352,7 @@ Long reads
 
 ## Short read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -373,7 +373,7 @@ Long reads
 
 ## Short read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -395,7 +395,7 @@ Long reads
 
 ## Short read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -417,7 +417,7 @@ Long reads
 
 ## Short read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -439,7 +439,7 @@ Long reads
 
 ## Short read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -461,7 +461,7 @@ Long reads
 
 ## Short read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -483,7 +483,7 @@ Long reads
 
 ## Short read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -505,7 +505,7 @@ Long reads
 
 ## Short read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -527,7 +527,7 @@ Long reads
 
 ## Short read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -551,7 +551,7 @@ Long reads
 
 ## Short read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -573,7 +573,7 @@ Long reads
 
 ## Short read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -596,7 +596,7 @@ Long reads
 
 # Long read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -620,7 +620,7 @@ Long reads
 
 # Long read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -642,7 +642,7 @@ Long reads
 
 # Long read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -664,7 +664,7 @@ Long reads
 
 ## Long read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -685,7 +685,7 @@ Long reads
 
 ## Long read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -706,7 +706,7 @@ Long reads
 
 ## Long read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -727,7 +727,7 @@ Long reads
 
 ## Long read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -748,7 +748,7 @@ Long reads
 
 ## Long read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -770,7 +770,7 @@ Long reads
 
 ## Long read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -794,7 +794,7 @@ Long reads
 
 ## Long read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -817,7 +817,7 @@ Long reads
 
 # Long read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -840,7 +840,7 @@ Long reads
 
 ## Long read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -863,7 +863,7 @@ Long reads
 
 ## Long read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -888,7 +888,7 @@ Long reads
 
 ## Long read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -913,7 +913,7 @@ Long reads
 
 ## Long read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -938,7 +938,7 @@ Long reads
 
 ## Long read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -963,7 +963,7 @@ Long reads
 
 ## Long read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -988,7 +988,7 @@ Long reads
 
 ## Long read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -1013,7 +1013,7 @@ Long reads
 
 ## Long read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -1038,7 +1038,7 @@ Long reads
 
 ## Long read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -1062,7 +1062,7 @@ Long reads
 
 ## Long read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -1084,7 +1084,7 @@ Long reads
 
 ## Long read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
@@ -1106,7 +1106,7 @@ Long reads
 
 ## Long read giraffe algorithm
 
-:::: {style="display: grid; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+:::: {style="display: grid; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
