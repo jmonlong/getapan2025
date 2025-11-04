@@ -1169,6 +1169,16 @@ Output: Placement of the read on the reference and, usually, the edits between t
 
 ::::
 
+# Haplotype sampling for mapping
+
+Complex graphs can be slow to map to
+![](imgs/haplotype-sampling1.svg)
+
+
+## Haplotype sampling for mapping
+
+Simplify graphs by sampling haplotypes similar to reads 
+![](imgs/haplotype-sampling2.svg)
 
 # Giraffe results
 
