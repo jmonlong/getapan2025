@@ -1,5 +1,7 @@
 Slides at [https://jmonlong.github.io/getapan2025](https://jmonlong.github.io/getapan2025)
 
+Printable version at [https://jmonlong.github.io/getapan2025?print-pdf](https://jmonlong.github.io/getapan2025?print-pdf) (even better with *margins* set to *None* and *Background* enabled on Firefox).
+
 ## Compile HTML
 
 In R:
