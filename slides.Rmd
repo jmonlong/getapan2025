@@ -444,6 +444,137 @@ Output: Placement of the read on the reference and, usually, the edits between t
 
 ::::
 
+## Short read giraffe algorithm (Distance index)
+
+:::: {style="display: grid; align-items: start; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
+
+::: {}
+
+1. Seeding
+1. **Clustering** with **Distance Index**
+1. Alignment
+
+:::
+
+::: {}
+
+
+![](imgs/distance-index1.svg)
+
+:::
+
+::::
+
+
+## Short read giraffe algorithm (Distance index)
+
+:::: {style="display: grid; align-items: start; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
+
+::: {}
+
+1. Seeding
+1. **Clustering** with **Distance Index**
+1. Alignment
+
+:::
+
+::: {}
+
+
+![](imgs/distance-index2.svg)
+
+:::
+
+::::
+
+
+## Short read giraffe algorithm (Distance index)
+
+:::: {style="display: grid; align-items: start; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
+
+::: {}
+
+1. Seeding
+1. **Clustering** with **Distance Index**
+1. Alignment
+
+:::
+
+::: {}
+
+
+![](imgs/distance-index3.svg)
+
+:::
+
+::::
+
+
+## Short read giraffe algorithm (Distance index)
+
+:::: {style="display: grid; align-items: start; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
+
+::: {}
+
+1. Seeding
+1. **Clustering** with **Distance Index**
+1. Alignment
+
+:::
+
+::: {}
+
+
+![](imgs/distance-index4.svg)
+
+:::
+
+::::
+
+
+## Short read giraffe algorithm (Distance index)
+
+:::: {style="display: grid; align-items: start; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
+
+::: {}
+
+1. Seeding
+1. **Clustering** with **Distance Index**
+1. Alignment
+
+:::
+
+::: {}
+
+
+![](imgs/distance-index5.svg)
+
+:::
+
+::::
+
+
+## Short read giraffe algorithm (Distance index)
+
+:::: {style="display: grid; align-items: start; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
+
+::: {}
+
+1. Seeding
+1. **Clustering** with **Distance Index**
+1. Alignment
+
+:::
+
+::: {}
+
+
+![](imgs/distance-index6.svg)
+
+:::
+
+::::
+
 
 ## Short read giraffe algorithm
 
