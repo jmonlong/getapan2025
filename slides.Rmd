@@ -233,13 +233,39 @@ Output: Placement of the read on the reference and, usually, the edits between t
 :::
 
 ::::
+
+
 ## Read mapping algorithm overview
 
 :::: {style="display: grid; align-items: start; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
 
 ::: {}
 
+
 1. Seeding
+1. Clustering/chaining
+1. Alignment
+
+:::
+
+::: {}
+
+
+![](imgs/mapping-overview7.svg)
+
+:::
+
+::::
+
+## Read mapping algorithm overview
+
+:::: {style="display: grid; align-items: start; justify-items: start; grid-template-columns: 1fr 3fr; grid-column-gap: 10px;"}
+
+::: {}
+
+1. **Seeding**
+1. Clustering/chaining
+1. Alignment
 
 :::
 
@@ -259,7 +285,8 @@ Output: Placement of the read on the reference and, usually, the edits between t
 ::: {}
 
 1. Seeding
-1. Clustering/chaining
+1. **Clustering/chaining**
+1. Alignment
 
 :::
 
@@ -279,7 +306,8 @@ Output: Placement of the read on the reference and, usually, the edits between t
 ::: {}
 
 1. Seeding
-1. Clustering/chaining
+1. **Clustering/chaining**
+1. Alignment
 
 :::
 
@@ -300,7 +328,7 @@ Output: Placement of the read on the reference and, usually, the edits between t
 
 1. Seeding
 1. Clustering/chaining
-1. Alignment
+1. **Alignment**
 
 :::
 
@@ -322,7 +350,7 @@ Output: Placement of the read on the reference and, usually, the edits between t
 
 1. Seeding
 1. Clustering/chaining
-1. Alignment
+1. **Alignment**
 
 :::
 
@@ -630,6 +658,7 @@ Output: Placement of the read on the reference and, usually, the edits between t
 1. Seeding
 1. Clustering
 1. **Gapless extension**
+1. Gapped alignment
 
 :::
 
@@ -652,6 +681,7 @@ Output: Placement of the read on the reference and, usually, the edits between t
 1. Seeding
 1. Clustering
 1. **Gapless extension** with **GBWT**
+1. Gapped alignment
 
 :::
 
@@ -673,6 +703,7 @@ Output: Placement of the read on the reference and, usually, the edits between t
 1. Seeding
 1. Clustering
 1. **Gapless extension** with **GBWT**
+1. Gapped alignment
 
 :::
 
@@ -694,6 +725,7 @@ Output: Placement of the read on the reference and, usually, the edits between t
 1. Seeding
 1. Clustering
 1. **Gapless extension** with **GBWT**
+1. Gapped alignment
 
 :::
 
@@ -1400,4 +1432,12 @@ On the HPRC v2 Minigraph-cactus graph, small variant calling with DeepVariant, s
 
 - Long read giraffe paper [doi:10.1101/2025.09.29.678807 ](https://doi.org/10.1101/2025.09.29.678807 )
 
+# Acknowledgements
 
+# Duplications in zip code trees
+
+![](imgs/zipcode_snarl_duplication.svg){}
+
+# Inversions in zip code trees
+
+![](imgs/zipcode_snarl_inversion.svg){}
