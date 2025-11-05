@@ -114,6 +114,11 @@ Enumerate **alleles for each snarl** on **a reference path** inc. nested snarls.
 
 # Snarl examples (`vg deconstruct`)
 
+![](imgs/simple_nested_snarl.summary.masked.svg)
+
+
+# Snarl examples (`vg deconstruct`)
+
 ![](imgs/simple_nested_snarl.summary.svg)
 
 ```{.smcode}
@@ -126,6 +131,10 @@ ref	15	>4>9	CCCAGG	CCGGTAACTACCGTCACCAGG,CCGGTACGTCA	60	.	AT=>4>8>9,>4>5>6>7>8>9
 
 ## Snarl examples (`vg deconstruct`)
 
+![](imgs/aaa.summary.masked.svg)
+
+## Snarl examples (`vg deconstruct`)
+
 ![](imgs/aaa.summary.svg)
 
 ```{.smcode}
@@ -135,7 +144,11 @@ ref	15	>4>9	CCCAGG	CCGGTAACTACCGTCACCAGG,CCGGTACGTCA	60	.	AT=>4>8>9,>4>5>6>7>8>9
 ref	10	>1>7	AAA	AAAAAA,AAAA	60	.	AT=>1>5>6>7,>1>2>3>4>5>6>7,>1>4>5>6>7;LV=0	GT	1|2
 ```
 
-## Snarl examples (`vg deconstruct`)
+## Snarl (trick) examples (`vg deconstruct`)
+
+![](imgs/loopy_chain.summary.masked.svg)
+
+## Snarl (trick) examples (`vg deconstruct`)
 
 ![](imgs/loopy_chain.summary.svg)
 
@@ -1378,17 +1391,17 @@ Output: Placement of the read on the reference and, usually, the edits between t
 # Haplotype sampling for mapping
 
 Complex graphs can be slow to map to
-![](imgs/haplotype-sampling1.svg)
+![](imgs/haplotype-sampling1.svg){width=90%}
 
 
 ## Haplotype sampling for mapping
 
 Simplify graphs by sampling haplotypes similar to reads 
-![](imgs/haplotype-sampling2.svg)
+![](imgs/haplotype-sampling2.svg){width=90%}
 
-# Giraffe results
+# Giraffe results on HPRC v2 Minigraph-cactus
 
-On the HPRC v2 Minigraph-cactus graph containing 462 haplotypes + 2 reference genomes
+Pangenome with 462 haplotypes + 2 reference genomes
 
 ![](imgs/giraffe_runtime_memory.svg){width=70%}
 \ 
@@ -1397,11 +1410,11 @@ On the HPRC v2 Minigraph-cactus graph containing 462 haplotypes + 2 reference ge
 \ 
 ![](imgs/giraffe-pushes-tortoise.gif){width=20%}
 
-# Giraffe results
+# Giraffe results on HPRC v2 Minigraph-cactus
 
-On the HPRC v2 Minigraph-cactus graph, small variant calling with DeepVariant, structural variant calling with Sniffles2 vs genotyping with `vg call`
+Small variant calling with DeepVariant, structural variant calling with Sniffles2 vs genotyping with `vg call`
 
-![](imgs/giraffe-calling.svg){width=70%}
+![](imgs/giraffe-calling.svg){width=80%}
 
 
 
@@ -1492,8 +1505,8 @@ On the HPRC v2 Minigraph-cactus graph, small variant calling with DeepVariant, s
 
 # Duplications in zip code trees
 
-![](imgs/zipcode_snarl_duplication.svg){}
+![](imgs/zipcode_snarl_duplication.svg){width=100%}
 
 # Inversions in zip code trees
 
-![](imgs/zipcode_snarl_inversion.svg){}
+![](imgs/zipcode_snarl_inversion.svg){width=100%}
