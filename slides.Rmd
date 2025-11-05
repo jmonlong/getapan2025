@@ -1451,6 +1451,34 @@ On the HPRC v2 Minigraph-cactus graph, small variant calling with DeepVariant, s
 
 # Acknowledgements
 
+:::: {style="display: grid; align-items: start; justify-items: start; grid-template-columns: 1fr 2fr; grid-column-gap: 10px;"}
+
+::: {}
+
+![](imgs/vg.png)
+
+- Benedict Paten
+
+- Jordan Eizenga
+
+- Glenn Hickey
+
+- Adam Novak
+
+- Jouni Sirén
+
+:::
+
+::: {}
+
+
+![](imgs/lab_photo_costumes_2022.jpg)
+
+:::
+
+::::
+ 
+
 #
 
 # Snarl decomposition algorithm?
